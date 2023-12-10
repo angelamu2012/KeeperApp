@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Note from "./Note";
 import NewCard from "./NewCard";
-import notes from "../notes";
 import Header from "./Header";
 import Footer from "./Footer";
 
