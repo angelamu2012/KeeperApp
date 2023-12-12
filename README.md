@@ -4,5 +4,10 @@ This is a Keeper notes app that is similar to Google Keep. To add a note, simply
 
 This app uses React, node.js, Express, and MongoDB. 
 
+*Keeper App without any notes saved*
 <img width="1429" alt="image" src="https://github.com/angelamu2012/KeeperApp/assets/23000236/61e938b9-ffc4-4ecb-bf3e-7e1d9c7bb104">
+
+*Keeper App with notes saved*
+<img width="1430" alt="image" src="https://github.com/angelamu2012/KeeperApp/assets/23000236/cb81fc20-8af8-4649-922a-fc7dbd0dafe6">
+
 
